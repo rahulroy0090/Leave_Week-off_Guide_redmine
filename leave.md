@@ -59,7 +59,7 @@
 
 ![](/w4.png)
 
-<h4> Now, Click the submit buttion. </h4> 
+<h4> Now, Click the submit button. </h4> 
 
 ![](/w5.png)
 
